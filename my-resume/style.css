@@ -1,0 +1,53 @@
+
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.container{
+  justify-content: space-between;
+  display: flex;
+}
+
+
+
+
+
+/**/
+
+.container-1 {
+  text-align: center;
+  margin-top: 50px;
+}
+.container-1 h2 {
+  margin-bottom: 20px;
+}
+.container-1 p {
+  font-size: 1.2rem;
+}
+.container-1 .buttons-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container-1 button {
+  margin: 10px;
+}
+
+/**/
+
+.container-2{
+  justify-content: center;
+  display: flex;
+}
+
+/*footer*/
+
+img{
+  height: 250px;
+  width: 250px;
+}
